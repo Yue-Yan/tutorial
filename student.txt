@@ -1,1 +1,2 @@
 This is used to teach the students how to use Git correctly.
+这个是用来给学生演示的。
